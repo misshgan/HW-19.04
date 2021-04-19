@@ -201,6 +201,10 @@
     align-items: center;
 }
 
+.cup {
+    max-width: 600px;
+}
+
 .about-text {
     max-width: 500px;
 }
